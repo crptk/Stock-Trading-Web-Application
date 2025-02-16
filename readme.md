@@ -25,22 +25,5 @@ This is a **stock trading simulator** built with **Flask, SQLite, and the Yahoo 
 4️⃣ **Track Portfolio** – View owned stocks, market value, and balance  
 5️⃣ **Review Transactions** – Check history of all completed trades  
 
-### 📂 Project Structure  
-```
-📁 Stock-Trading-Web-Application
-│── app.py              # Main Flask app
-│── helpers.py          # Stock lookup and helper functions
-│── finance.db          # SQLite database for user data
-│── static/
-│   └── styles.css      # CSS for front-end
-│── templates/
-│   ├── index.html      # Dashboard
-│   ├── buy.html        # Buying stocks page
-│   ├── cash.html       # Balance page
-│   ├── history.html    # Transaction history page
-│   ├── apology.html    # Error messages
-│── readme.txt          # Basic project description
-```
-
 ### ⚠️ Disclaimer  
 This is a **simulation** for **learning purposes only** – no real money or trading occurs.
